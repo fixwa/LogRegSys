@@ -1,4 +1,4 @@
-# PHP User Login and Registration System: (UsLoRegSys)
+# PHP User Login and Registration System: (LogRegSys)
 
 A system login and user registration, regardless of the framework used.  
 If you have ever tried to create a login page / user registration then you know that this is a repetitive task fraught with problems.
