@@ -1,4 +1,4 @@
-# PHP User Login and Registration System: (LogRegSys)
+# PHP User Login and Registration System: (log-regi-sys)
 
 A system login and user registration, regardless of the framework used.  
 If you have ever tried to create a login page / user registration then you know that this is a repetitive task fraught with problems.
@@ -8,7 +8,7 @@ persistence, session confirmation email, etc.
 
 ## Installation
 
-UsLoRegSys is installed via [Composer](http://getcomposer.org/):
+LOGREGISYS is installed via [Composer](http://getcomposer.org/):
 
 ```
 composer require fixwa/UsLoRegSys:dev-master

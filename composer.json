@@ -1,5 +1,5 @@
 {
-  "name": "fixwa/UsLoRegSys",
+  "name": "fixwa/logregisys",
   "description": "A system login and user registration, independent of the framework used.",
   "keywords": ["user", "registration", "login", "management"],
   "minimum-stability": "stable",
