@@ -1,0 +1,24 @@
+{
+  "name": "fixwa/UsLoRegSys",
+  "description": "A system login and user registration, independent of the framework used.",
+  "keywords": ["user", "registration", "login", "management"],
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Pablo",
+      "email": "fixwah@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "php": ">=5.5.0",
+    "phpmailer/phpmailer": "~5",
+    "gregwar/captcha": "~1.0",
+    "phpunit/phpunit": "~4"
+  },
+  "autoload": {
+    "psr-4": {
+      "LogRegSys\\": "./Core/"
+    }
+  }
+}
